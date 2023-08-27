@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://imgur.com/LDUrbQb.png">
   
-  <a href="lgrow.lucasfs.tk/artist">Credits to the artist: Melissa Dias</a>
+  <a href="https://www.instagram.com/merly_.murakami/">Credits to the artist: Melissa Dias</a>
 </div>
 
 <br>
