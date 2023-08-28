@@ -14,7 +14,7 @@
 
 # So, let's get to the beginning!
 
-A compiled language, with high performance, without worries about Garbage Collector and designed for proramadores of other languages, do not have problems when adapting.
+A compiled language, with high performance, without worries about Garbage Collector and designed for developers of other languages, do not have problems when adapting.
 
 We always try to give the maximum freedom to the user, from him being able to declare functions with "fun" or "function" to him being able to use "print", "console.log" or even "system.out.println", when we talk about freedom, it is no joke.
 
