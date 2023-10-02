@@ -12,7 +12,7 @@
 <hr>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LGrow&repo=LGrow&show_icons=true&theme=transparent&border_color=ccc40&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LGrow&repo=LGrow&show_icons=true&theme=transparent&border_color=ccc40&show_owner=true&icon_color=6F34ad&text_color=cccccc)](https://github.com/LGrow/LGrow)
 
 # So, let's get to the beginning!
 
