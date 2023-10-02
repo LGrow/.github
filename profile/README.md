@@ -1,4 +1,4 @@
-# 🐹 LGrow, the language that gives you freedom.
+# 🐹 LGrow, the most simplified high-performance language!
 
 - Before, we needed to make this presentation, since this character is VERY important to our story. Since it was and will forever be our first mascot.
 
