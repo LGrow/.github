@@ -22,7 +22,7 @@ We don't want to turn our ease of use into a joke, so we will use simple and cle
 
 **See below a simple use of the language:**
 <div align="center">
-  <img src="https://imgur.com/jwkaw9Q.png">
+  <img src="https://imgur.com/a/jwkaw9Q.png">
 </div>
 
 # How does language work?
